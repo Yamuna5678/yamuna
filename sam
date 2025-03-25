@@ -1,0 +1,5 @@
+public class sam{
+  public static void main(string arge[]){
+    System.out.println("helo");
+  }
+}
